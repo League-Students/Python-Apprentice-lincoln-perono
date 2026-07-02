@@ -26,9 +26,9 @@ def draw_polygon(sides):
 
 draw_polygon(360/4)                        # Draw a square
 
-tina.goto()                               # Move tina to another spot on the screen
+tina.goto(345,8765)                               # Move tina to another spot on the screen
 
-draw_polygon(...)                        # Draw a pentagon
+draw_polygon()                        # Draw a pentagon
 
 ...                                      # Move tina to another spot on the screen
 
