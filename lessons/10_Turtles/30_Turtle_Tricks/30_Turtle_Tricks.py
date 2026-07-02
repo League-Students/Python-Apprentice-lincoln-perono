@@ -19,8 +19,8 @@ tina.circle(2)
 
 # Use tina.circle() to draw a circle, and tina.goto() to move tina to a new location
 # Use tina.begin_fill(), tina.end_fill(), and tina.fillcolor() to fill in the shapes
-tina.fillcolor(red)
-tina.begin_fill(red)
+tina.begin_fill()
+tina.fillcolor()
 tina.end_fill()
 ... # Your code here
 
