@@ -17,7 +17,7 @@ tina.forward(80)
 tina.left(60)
 tina.forward(80)
 tina.left(60)
-t
+tina.forward(80)
 
 # Use tina.forward() and tina.left() to draw a triangle
 # Make each side of the triangle a different color with 
