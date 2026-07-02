@@ -25,3 +25,5 @@ tina.speed(2)                           # Move at a moderate speed, not too fast
 for i in range(4):
     tina.forward(30)
     tina.forward(72)
+
+ti
