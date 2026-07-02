@@ -22,8 +22,8 @@ tina.speed(2)                           # Move at a moderate speed, not too fast
 
 
 ... # Your code here
-for i in range(4):
+for i in range(5):
     tina.forward(30)
-    tina.forward(72)
+    tina.left(72)
 
-ti
+turtle.exitonclick()
