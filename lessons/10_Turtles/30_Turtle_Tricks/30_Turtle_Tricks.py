@@ -23,7 +23,10 @@ tina.begin_fill()
 tina.fillcolor("red")
 tina.circle(67)
 tina.end_fill()
-tina.goto(x=)
+tina.goto(x=54678 Y=3456)
+tina.fillcolor("red")
+tina.circle(67)
+tina.end_fill()
 ... # Your code here
 
 turtle.exitonclick()                    # Close the window when we click on it
