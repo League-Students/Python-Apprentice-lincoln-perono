@@ -27,7 +27,7 @@ turtle.setup(width=600, height=600)         # Set the size of the window
 
 
 screen = turtle.Screen()                    # Get the screen that tina is on
-#set_background_image(screen, "emoji.png")   # Set the background image of the screen
+set_background_image(screen, "emoji.png")   # Set the background image of the screen
 
 
 
@@ -49,7 +49,7 @@ screen.setup(width=600, height=600)
 # Create a turtle and set its shape to the custom GIF
 t = turtle.Turtle()
 
-#set_turtle_image(t, "moustache1.gif")
+set_turtle_image(t, "moustache1.gif")
 
 t.penup()   # Prevent drawing when moving
 t.speed(3)  # Set a moderate speed
