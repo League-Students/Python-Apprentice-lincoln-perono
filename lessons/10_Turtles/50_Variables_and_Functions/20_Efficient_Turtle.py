@@ -25,7 +25,7 @@ def draw_polygon(sides):
         tina.left(90)              # Turn tina left by the left tu
 tina.goto(610,610)                               # Move tina to another spot on the screen
 
-for                    # Draw a pentagon
+for i in range                    # Draw a pentagon
 
 ...                                      # Move tina to another spot on the screen
 
