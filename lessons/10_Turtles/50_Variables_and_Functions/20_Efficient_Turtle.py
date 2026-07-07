@@ -27,7 +27,7 @@ tina.goto(610,610)                               # Move tina to another spot on 
 
 for i in range (5)                    # Draw a pentagon
 tina.forward (5)
-tina.
+tina.left(72)
 ...                                      # Move tina to another spot on the screen
 
 draw_polygon(360/8)                        # Draw a hexagon
