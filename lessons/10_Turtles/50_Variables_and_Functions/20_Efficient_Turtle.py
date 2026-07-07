@@ -26,7 +26,8 @@ def draw_polygon(sides):
 tina.goto(610,610)                               # Move tina to another spot on the screen
 
 for i in range (5)                    # Draw a pentagon
-
+tina.forward (5)
+tina.
 ...                                      # Move tina to another spot on the screen
 
 draw_polygon(360/8)                        # Draw a hexagon
