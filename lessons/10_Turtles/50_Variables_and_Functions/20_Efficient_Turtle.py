@@ -30,6 +30,6 @@ tina.forward (5)
 tina.left(72)
 ...                                      # Move tina to another spot on the screen
 
-draw_polygon(/8)                        # Draw a hexagon
+draw_polygon(8)                        # Draw a hexagon
 
 turtle.exitonclick()                     # Close the window when we click on it
