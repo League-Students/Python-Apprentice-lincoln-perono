@@ -22,13 +22,10 @@ def draw_polygon(sides):
     
     for i in range(4):                 # Loop through the number of sides
         tina.forward(5)                   # Move tina forward by the forward distance
-        tina.left(90                 # Turn tina left by the left turn
+        tina.left(90)              # Turn tina left by the left tu
+tina.goto(610,610)                               # Move tina to another spot on the screen
 
-draw_polygon(4)                        # Draw a square
-
-tina.goto(345,8765)                               # Move tina to another spot on the screen
-
-draw_polygon(360/5)                        # Draw a pentagon
+for                    # Draw a pentagon
 
 ...                                      # Move tina to another spot on the screen
 
