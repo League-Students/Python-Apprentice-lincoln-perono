@@ -2,4 +2,7 @@ import turtle
 
 tina_turtle.turtle()
 screen = turtle.screen()
-sccreen.setup(600,)
+sccreen.setup(600,600)
+
+def fractal_triangle(size,depth):
+    
