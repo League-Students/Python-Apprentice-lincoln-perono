@@ -1,8 +1,8 @@
 import turtle
 
-tina = turtle.turtle()
-screen = turtle.screen()
-sccreen.setup(600,600)
+tina = turtle.Turtle()
+screen = turtle.Screen()
+screen.setup(600,600)
 
 def fractal_triangle(size,depth):
     if depth == 0:
