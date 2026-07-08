@@ -1,3 +1,4 @@
 import turtle
 
-tina_t
+tina_turtle.turtle()
+screen
