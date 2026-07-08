@@ -1,4 +1,4 @@
 import turtle
 
 tina_turtle.turtle()
-screen
+screen = turtle.screen
