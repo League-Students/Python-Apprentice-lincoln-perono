@@ -17,4 +17,4 @@ def fractal_triangle(size,depth):
             
 fractal_triangle(200,1)
 
-turtle.excitonclick()
+turtle.exitonclick()
