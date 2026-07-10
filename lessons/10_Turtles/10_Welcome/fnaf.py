@@ -30,19 +30,25 @@ def open_cam1():
     show_animatronics()
 def open_cam2():
     global tina_progress
-    tina_progress += 1
+    tina_progress += 2
     print("cam_2 open")
     screen.bgcolor(cam_colors[1])
     show_animatronics()
 def open_cam3():
+    global tina_progress
+    tina_progress += 3
     print("cam_3 open")
     screen.bgcolor(cam_colors[2])
     show_animatronics()
 def open_cam4():
+    global tina_progress
+    tina_progress += 4
     print("cam_4 open")
     screen.bgcolor(cam_colors[3])
     show_animatronics()
 def open_cam5():
+    global tina_progress
+    tina_progress += 5
     print("cam_5 open")
     screen.bgcolor(cam_colors[4])
     show_animatronics()
