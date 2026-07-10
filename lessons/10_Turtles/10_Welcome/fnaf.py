@@ -26,9 +26,9 @@ def open_cam5():
 
 screen.listen()
 screen.onkey(open_cam1, "1")
-screen.onkey(open_cam2,"2") 
-screen.onkey(open_cam3,"2")
-screen.onkey(open_cam4,"2")
-screen.onkey(open_cam5,"2")
+screen.onkey(open_cam2, "2") 
+screen.onkey(open_cam3, "3")
+screen.onkey(open_cam4, "4")
+screen.onkey(open_cam5, "5")
             
 turtle.exitonclick()
