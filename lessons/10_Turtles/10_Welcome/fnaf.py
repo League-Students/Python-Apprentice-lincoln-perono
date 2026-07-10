@@ -8,7 +8,7 @@ screen.setup(500,500)
 cam_colors = ["red","black","white","blue","green"]
 
 def open_cam1():
-    print("cam 1 open")
+    print("cam_1 open")
     screen.bgcolor(cam_colors[0])
 def open_cam2():
     print("cam 2 open")
@@ -31,4 +31,4 @@ screen.onkey(open_cam_2,"2")
 screen.onkey(open_cam_2,"2")
 screen.onkey(open_cam_2,"2")
             
-turtle.exit
+turtle.exitonclick()
