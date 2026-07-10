@@ -58,7 +58,7 @@ def exit_cam():
     screen.bgcolor("yellow")
     show_animatronics()
 
-exit_cam()
+
 
 screen.listen()
 screen.onkey(open_cam1, "1")
