@@ -17,11 +17,11 @@ def open_cam3():
     print("cam 3 open")
     screen.bgcolor(cam_colors[2])
 def open_cam4():
-    print("cam 1 open")
-    screen.bgcolor(cam_colors[0])
+    print("cam 4 open")
+    screen.bgcolor(cam_colors[3])
 def open_cam5():
-    print("cam 1 open")
-    screen.bgcolor(cam_colors[0])
+    print("cam 5 open")
+    screen.bgcolor(cam_colors[4])
 
 
 screen.listen()
@@ -31,4 +31,3 @@ screen.onkey(open_cam_2,"2")
 screen.onkey(open_cam_2,"2")
 screen.onkey(open_cam_2,"2")
              
-turtle.exitonclick()
