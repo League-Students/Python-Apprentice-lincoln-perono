@@ -50,4 +50,8 @@ screen.onkey(open_cam3, "3")
 screen.onkey(open_cam4, "4")
 screen.onkey(open_cam5, "5")
 screen.onkey(exit_cam, "0")
+
+while True:
+        time.sleep(1)
+        
 turtle.exitonclick()
