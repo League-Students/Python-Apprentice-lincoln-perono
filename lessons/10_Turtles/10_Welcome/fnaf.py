@@ -1,5 +1,6 @@
 import turtle
-import
+import time
+
 tina = turtle.Turtle()
 tina.shape("turtle")
 tina_path = [1,2,4,5]
