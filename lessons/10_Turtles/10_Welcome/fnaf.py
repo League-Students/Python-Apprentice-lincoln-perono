@@ -1,7 +1,7 @@
 import turtle
 
-tina = turtle.Turtle
+tina = turtle.Turtle()
 
-
-
-turtle.e
+screen=turtle.Screen()
+screen.setup()
+turtle.exitonclick()
