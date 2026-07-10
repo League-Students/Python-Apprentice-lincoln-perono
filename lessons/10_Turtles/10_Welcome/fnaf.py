@@ -11,7 +11,7 @@ screen.setup(500,500)
 cam_colors = ["red","black","white","blue","green"]
 
 def show_animatronics(cam_num):
-    if(cam_num == tina_path[tina_progress])
+    if(cam_num == tina_path[tina_progress]):
 def open_cam1():
     print("cam_1 open")
     screen.bgcolor(cam_colors[0])
@@ -31,6 +31,7 @@ def exit_cam():
     print("cam exited")
     screen.bgcolor("yellow")
 
+exit_cam
 
 screen.listen()
 screen.onkey(open_cam1, "1")
