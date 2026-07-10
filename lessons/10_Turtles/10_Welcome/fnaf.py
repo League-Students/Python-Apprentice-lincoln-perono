@@ -1,5 +1,5 @@
 import turtle
-
+import
 tina = turtle.Turtle()
 tina.shape("turtle")
 tina_path = [1,2,4,5]
