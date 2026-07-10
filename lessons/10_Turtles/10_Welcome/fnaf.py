@@ -1,7 +1,7 @@
 import turtle
 
 tina = turtle.Turtle()
-
+tina
 screen=turtle.Screen()
 screen.setup(500,500)
 
