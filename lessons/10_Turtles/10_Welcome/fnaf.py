@@ -23,7 +23,7 @@ def open_cam5():
     print("cam_5 open")
     screen.bgcolor(cam_colors[4])
 def exit_cam():
-    print("cam_5 open")
+    print("")
     screen.bgcolor(cam_colors[4])
 
 
